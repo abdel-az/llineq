@@ -1,0 +1,11 @@
+
+export const csvData = `
+From,To
+0x4838b106fce9647bdf1e7877bf73ce8b0bad5f97,0x388c818ca8b9251b393131c08a736a67ccb19297
+0xc346a5dc3b3821aeef3f3ffb70989631521e41cd,0x5efda50f22d34f262c29268506c5fa42cb56a1ce
+
+`;
+
+
+
+
